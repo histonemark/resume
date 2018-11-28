@@ -1,0 +1,72 @@
+#+OPTIONS: toc:nil H:10 tex:t
+#+STARTUP: hidestars indent
+#+INCLUDE: personal-info.org
+#+LaTeX_HEADER: \usepackage{mycv}
+#+LaTeX_header: \usepackage[dvipsnames,svgnames,x11names,hyperref]{xcolor}
+#+LaTeX_HEADER: \hypersetup{colorlinks=true, urlcolor={MidnightBlue}}
+#+LaTeX_CLASS_OPTIONS: [letterpaper]
+#+LaTeX_HEADER: \usepackage{enumitem}
+#+LaTeX_HEADER: \setlist{leftmargin=0.25in,nosep}
+
+{{{HEADER}}}
+ 
+* Skills
+  - Computer :: Python, R, Octave, Linux, Git, Bioinformatic pipelines and
+                data analysis.  
+  - Bench :: Molecular Biology, High-troughput sequencing, Barcoding
+             and multiplexing protocols.  
+
+* Publications
+** [[https://genome.cshlp.org/content/27/7/1153.long][Clustering of /Drosophila/ housekeeping promoters facilitates their expression.]]
+*** Genome Research 2017 (CSHP)
+Marc Corrales, Aránzazu Rosado, Ruggero Cortini, Joris van
+Arensbergen, Bas van Steensel, Guillaume J Filion. “Clustering of
+Drosophila housekeeping promoters facilitates their expression” Genome
+Research. 2017. 27: 1153-1161.
+
+** [[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0143166][Machine Learning: How Much Does It Tell about Protein Folding Rates?]]
+*** Plos One 2015
+Marc Corrales, Pol Cuscó, Dinara R Usmanova, Heng-Chang Chen, Natalya
+S Bogatyreva, Guillaume J Filion, Dmitry N Ivankov. “Machine Learning:
+How Much Does It Tell about Protein Folding Rates?” Plos One 10(11):
+e0143166.
+
+** Book chapter: [[https://doi.org/10.1016/B978-0-12-803075-2.00002-7][Modeling Chromatin States.]]  
+*** Epigenetics and Systems Biology 2017  
+Marc Corrales, Guillaume J Filion. “Modeling chromatin states” Epigenetics and Systems Biology. ISBN: 978-0-12-803075-2. Academic Press
+
+* Education
+** phD thesis. Text in Context: Chromatin effects in gene regulation.
+*** 2013-2018
+- [[http://www.genomearchitecture.com/][Genome Architecture Lab]] at [[https://www.crg.eu/][Center for Genomic Regulation]] (CRG Barcelona).
+- Supervisor: Guillaume Filion. 
+- Qualification: /Cum laude/.
+
+The aim of my thesis (Text in context: Chromatin effects in gene
+regulation) was to understand the role of chromatin context in gene
+expression. When I started my thesis, several recently published
+projects showed that despite the theoretical combinatorial complexity
+of chromatin factors (i.e. proteins, histone modifications), only a
+few discrete combinations were observed. Moreover these “chromatin
+states” were correlated with different gene expression outcomes.
+We decided to integrate expression reporters at thousands of locations
+and test the causality of the chromatin features in the expression of
+the reporters at high resolution (~ 80.000 loci).  
+** Master in Biomedicine (Branch: Genomes and Systems) at Universistat Pompeu fabra (Barcelona).
+*** 2012-2013
+** Biochemistry Licenciatura (5 years) at Universistat Illes Balears.
+*** 2012
+
+* International Conferences and Courses
+** The biology of genomes 2017 Edition.
+*** Conference  
+Poster: [[https://www.dropbox.com/s/x3qzs4xs37i1cnb/Marc%2520Corrales%2520BOG%2520%2528Guillaume%2520Filion%2529.pdf?dl=1][Clustering of Drosophila housekeeping promoters facilitates their expression]]
+** Applied Bioinformatics in Life Sciences 2016 edition.
+*** Conference 
+Poster.
+** Modeling for systems biology.
+*** Courses@CRG
+Organizer: James Sharpe.
+** Library preparation for Next-generation sequencing.
+*** Courses@CRG
+Organizer: Heinz Himmelbauer.
